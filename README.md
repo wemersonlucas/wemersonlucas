@@ -1,6 +1,6 @@
 ## Olá, eu sou Wemerson Lucas 👋
 #### Moro em Santa Gertrudes, SP 🇧🇷.
-#### Atualmente estou estudando PHP, REACT JS  e NODE JS :books:.
+#### Atualmente estou estudando REACT NATIVE, REACT JS  e NODE JS :books:.
 Site: www.wemersonlucas.com
 
 <div align="center">
