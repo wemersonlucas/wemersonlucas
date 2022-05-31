@@ -3,7 +3,7 @@
 #### Atualmente estou estudando REACT NATIVE, REACT JS  e NODE JS :books:.
 Site: www.wemersonlucas.com
 
-<div align="center">
+<div align="start">
   <a href="www.wemersonlucas.com">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wemersonlucas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
